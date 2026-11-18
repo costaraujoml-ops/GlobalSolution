@@ -2,7 +2,7 @@
 
 **Global Solution 2026.2 – FIAP (CitizenTech)**
 
-## 1. Autora (trabalho individual)
+## 1. Autora
 
 Maria Luiza Costa Araujo
 
